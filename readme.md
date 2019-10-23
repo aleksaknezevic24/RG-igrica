@@ -4,6 +4,8 @@ Cilj igre je da se sakupi sto vise minerala. nakon odredjenog vremena brzina kre
 lopte ce se postepeno povecavati.
 Ukoliko lopta udari u rozu prepreku, igra se zaustavlja.
 
+**Vazno:** Pogledati WIKI stranice, gde je prikazano kako je projekat napredovao u etapama.
+
 Tasteri koje mozemo da koristimo su:
 
 Tipka | Događaj
